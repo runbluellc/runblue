@@ -67,8 +67,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const pageTitles = {
-        'home': 'Aura Market LLC — Organize better. Travel smarter.',
-        'about': 'About Us — Aura Market LLC'
+        'home': 'Runblue LLC — Accessible nutrition for everyday life.',
+        'about': 'About Us — Runblue LLC'
     };
 
     function switchPage(targetPage) {
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
             const selectedPage = document.getElementById(targetPage);
             if (selectedPage) selectedPage.classList.add('active');
-            document.title = pageTitles[targetPage] || `${targetPage.charAt(0).toUpperCase() + targetPage.slice(1).replace('-', ' ')} — Aura Market LLC`;
+            document.title = pageTitles[targetPage] || `${targetPage.charAt(0).toUpperCase() + targetPage.slice(1).replace('-', ' ')} — Runblue LLC`;
             hideLoadingScreen();
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }, 100);

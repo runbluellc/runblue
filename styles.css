@@ -1,5 +1,5 @@
 :root {
-    /* Aura Market LLC — graphite, light gray, subtle accent */
+    /* Runblue LLC — graphite, light gray, subtle accent */
     --brand-primary: #4a5568;
     --brand-primary-dark: #2d3748;
     --brand-primary-light: #718096;
@@ -569,7 +569,7 @@ main {
     max-width: var(--text-measure);
 }
 
-/* Value proposition grid — Aura Market */
+/* Value proposition grid */
 .value-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));

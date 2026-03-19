@@ -1,18 +1,18 @@
-# Aura Market LLC — Corporate Website
+# Runblue LLC — Corporate Website
 
-Corporate website for **Aura Market LLC**, a U.S.-based company that designs and sells innovative products for organization, travel, and everyday life. Focus on efficiency, mobility, and modern minimalism. Tagline: *Organize better. Travel smarter.*
+Corporate website for **Runblue LLC**, a U.S.-based company focused on the e-commerce distribution of dietary supplements. Positioning is compliance-friendly and aligned with U.S. supplement marketplace standards.
 
 ## Repository contents
 
 | File / folder       | Description |
 |---------------------|-------------|
-| `index.html`        | Homepage (Hero, Value proposition, Product categories, Benefits, About preview, CTA, Contact) and full About Us page (Mission, Vision, Values, Brand story, Contact) |
+| `index.html`        | Homepage (Hero, products, commitments, intended consumers, mission, CTA, contact) and full About Us page |
 | `cookie-policy.html`  | Cookie policy |
 | `privacy-policy.html` | Privacy policy |
 | `styles.css`        | Global styles: graphite/light gray palette, serif/sans typography, dark mode, responsive, accessibility |
 | `script.js`         | Page navigation (Home / About Us), dark mode, loading screen, anchor scrolling |
 | `cookie-consent.js` | Cookie consent (GDPR/LGPD compliant) |
-| `assets/`           | Logo (light and dark mode variants) |
+| `assets/`           | Static assets |
 
 ## Local preview
 
@@ -37,22 +37,21 @@ npx serve .
 
 ## Audience
 
-- Frequent travelers and digital nomads  
-- Professionals seeking efficient organization  
-- Shoppers who value practical, minimalist products  
-- Primary market: United States; international e-commerce  
+- General adult consumers in the United States  
+- People looking for convenient nutritional support  
+- Customers purchasing through Amazon marketplace  
 
 ## Page structure
 
-- **Home:** Hero → Value proposition → Product categories → Benefits → About preview → CTA → Contact.
-- **About Us:** Mission → Vision → Values → Brand story → Contact.
+- **Home:** Hero → About products → Featured product → Commitments → Intended consumers → Mission → CTA → Contact.
+- **About Us:** Company overview → Business model → Quality/regulatory approach → Market focus → Vision → Contact.
 
 ## Brand
 
-- **Tone:** Modern, clean, minimalist, trustworthy, premium but accessible. No hype; clarity and functionality.
+- **Tone:** Professional, trustworthy, compliance-friendly, clear and concise.
 - **Colors:** Graphite black, light gray, subtle accent (slate/gray).
-- **Contact:** info@auramarketllc.com · United States
+- **Contact:** info@runbluellc.com · United States
 
 ---
 
-© Aura Market LLC. This repository describes the corporate website project; content and assets belong to the company.
+© Runblue LLC. This repository describes the corporate website project; content and assets belong to the company.
